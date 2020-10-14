@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qing Yin"
-title_separator          : "-"
+title                    : "Welcome!"
+title_separator          : " "
 name                     : &name "Qing Yin"
 description              : &description "Ph.D. candidate at Stanford University"
 url                      : https://qwyin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Qing Yin"
   avatar           : "0-2.jpeg"
-  bio              : "Stanford University"
-  location         : "CA, Stanford"
+  bio              : "Ph.D. candidate"
+  #location         : "CA, Stanford"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=k4fa5xQAAAAJ"
-  email            :
   researchgate     : "https://www.researchgate.net/profile/Qing_Yin7"
+  email            : "qingyin@stanford.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
