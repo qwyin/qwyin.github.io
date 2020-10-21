@@ -7,7 +7,7 @@ author_profile: true
 #  - /about.html
 ---
 I am a Ph.D. candidate in [Department of Civil & Environmental Engineering](https://cee.stanford.edu) and a member of the Computational Geomechanics Group at Stanford University, advised by Prof. [Ronaldo I. Borja](https://web.stanford.edu/~borja/). I also hold a Ph.D. minor in [Computational
-& Mathematical Engineering](https://icme.stanford.edu). Prior to Stanford, I studied civil engineering in Tianjin University. Here is my [**CV**](https://qwyin.github.io/files/paper1.pdf).
+& Mathematical Engineering](https://icme.stanford.edu). Prior to Stanford, I studied civil engineering in Tianjin University. Here is my [**CV**](https://qwyin.github.io/files/Yin_CV.pdf).
 
 My research revolves around developing theoretical and computational methods to understand the brittle and viscous behaviors of geomaterials and soft matters, with an emphasis on bridging the nonlinear mechanical responses of complex material systems (e.g. shale) at different spatial and temporal scales. I am interested in well developed numerical methods like FEM and DEM, as well as emerging methods like phase-field model, MPM and physics-informed AI approach. I look forward to combining my work with experimental research.
 
@@ -48,13 +48,13 @@ Nov. 2016, Stanford University. [[slides](https://web.stanford.edu/~qingyin/file
 Teaching
 ======
 ---
-1. Finite element methods for dynamic analysis  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*TA*, Spring 2018  
-2. Plasticity modeling and computation  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*TA*, Spring 2017  
-3. Computational poromechanics  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*TA*, Spring 2016  
-4. Introduction to computational mechanics  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*TA*, Summer 2018  
-5. Foundations and earth structures  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *TA*, Winter 2019  
+1. Finite element methods for dynamic analysis / *TA*, Spring 2018  
+2. Plasticity modeling and computation / *TA*, Spring 2017  
+3. Computational poromechanics / *TA*, Spring 2016  
+4. Introduction to computational mechanics / *TA*, Summer 2018  
+5. Foundations and earth structures / *TA*, Winter 2019  
 
-Services
+Service
 ======
 ---
 * **Journal reviewer**: *Rock Mechanics and Rock Engineering*  
@@ -64,12 +64,12 @@ Services
 Awards
 ======
 ---
-* Charles H. Leavell fellowship &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239;04.2017
-* John A. Blume research fellowship &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07.2016
-* Chiang Chen overseas fellowship &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;09.2014  
-* Meritorious winner, Mathematical Contest in Modeling &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;04.2013
+* Charles H. Leavell fellowship, 04.2017
+* John A. Blume research fellowship, 07.2016
+* Chiang Chen overseas fellowship, 09.2014  
+* Meritorious winner, Mathematical Contest in Modeling, 04.2013
 
 Code development
 ======
 ---
-**GeoScale**: a finite element code written in C++ that can simulate 3D/2D indentations (contact problems) as well as triaxial tests on heterogeneous materials associated with viscoplastic constitutive laws. It is capable of predicting the long-term time-dependent deformation of materials from the results of indentation tests. The code can be easily extended to include other constitutive laws and problems in different geometric settings.
+**GeoScale**: a finite element code written in C++ that can simulate 3D/2D indentations (contact problems) as well as triaxial tests on heterogeneous materials associated with viscoplastic constitutive laws. It is capable of predicting the long-term time-dependent deformation of materials from the results of indentation tests. The code can be easily extended to include other constitutive laws and problems in different geometries.
